@@ -1,7 +1,7 @@
 import com.learn.java.Animal;
 
 public class GitDemoClass {
-
+		// String class
 	public static void main(String[] args) {
 		System.out.println("I am sleeping \" I am sleeping");{
 		}
